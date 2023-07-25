@@ -2,7 +2,7 @@
   "homepage": "https://siddharthbeniwal.github.io/TextStyler",
   "name": "new-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bootstrap": "^4.5.0",
     "react": "^16.13.1",
