@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/TextStyler/static/css/main.34d80075.chunk.css",
-    "main.js": "/TextStyler/static/js/main.2e414463.chunk.js",
-    "main.js.map": "/TextStyler/static/js/main.2e414463.chunk.js.map",
-    "runtime-main.js": "/TextStyler/static/js/runtime-main.0528e9ff.js",
-    "runtime-main.js.map": "/TextStyler/static/js/runtime-main.0528e9ff.js.map",
-    "static/css/2.cad033e0.chunk.css": "/TextStyler/static/css/2.cad033e0.chunk.css",
-    "static/js/2.001100c7.chunk.js": "/TextStyler/static/js/2.001100c7.chunk.js",
-    "static/js/2.001100c7.chunk.js.map": "/TextStyler/static/js/2.001100c7.chunk.js.map",
+    "main.css": "/TextStyler/static/css/main.10bbc19b.chunk.css",
+    "main.js": "/TextStyler/static/js/main.21152b6c.chunk.js",
+    "main.js.map": "/TextStyler/static/js/main.21152b6c.chunk.js.map",
+    "runtime-main.js": "/TextStyler/static/js/runtime-main.0d06b087.js",
+    "runtime-main.js.map": "/TextStyler/static/js/runtime-main.0d06b087.js.map",
+    "static/css/2.34e3f391.chunk.css": "/TextStyler/static/css/2.34e3f391.chunk.css",
+    "static/js/2.6b025707.chunk.js": "/TextStyler/static/js/2.6b025707.chunk.js",
+    "static/js/2.6b025707.chunk.js.map": "/TextStyler/static/js/2.6b025707.chunk.js.map",
     "index.html": "/TextStyler/index.html",
-    "precache-manifest.f03740c80cc79b4bdfe7d69bbe792768.js": "/TextStyler/precache-manifest.f03740c80cc79b4bdfe7d69bbe792768.js",
+    "precache-manifest.9f91424efe38a4a419d2ab312e02159d.js": "/TextStyler/precache-manifest.9f91424efe38a4a419d2ab312e02159d.js",
     "service-worker.js": "/TextStyler/service-worker.js",
-    "static/css/2.cad033e0.chunk.css.map": "/TextStyler/static/css/2.cad033e0.chunk.css.map",
-    "static/css/main.34d80075.chunk.css.map": "/TextStyler/static/css/main.34d80075.chunk.css.map",
-    "static/js/2.001100c7.chunk.js.LICENSE.txt": "/TextStyler/static/js/2.001100c7.chunk.js.LICENSE.txt"
+    "static/css/2.34e3f391.chunk.css.map": "/TextStyler/static/css/2.34e3f391.chunk.css.map",
+    "static/css/main.10bbc19b.chunk.css.map": "/TextStyler/static/css/main.10bbc19b.chunk.css.map",
+    "static/js/2.6b025707.chunk.js.LICENSE.txt": "/TextStyler/static/js/2.6b025707.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0528e9ff.js",
-    "static/css/2.cad033e0.chunk.css",
-    "static/js/2.001100c7.chunk.js",
-    "static/css/main.34d80075.chunk.css",
-    "static/js/main.2e414463.chunk.js"
+    "static/js/runtime-main.0d06b087.js",
+    "static/css/2.34e3f391.chunk.css",
+    "static/js/2.6b025707.chunk.js",
+    "static/css/main.10bbc19b.chunk.css",
+    "static/js/main.21152b6c.chunk.js"
   ]
 }
