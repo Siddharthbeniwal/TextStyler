@@ -2,7 +2,7 @@ import React from "react";
 
 const handleIClick = (event) => {
   event.preventDefault();
-  alert("This is a ReactJS project!!");
+  alert("This is a ReactJS project by Siddharth Beniwal !!");
 };
 
 export default function Navbar() {

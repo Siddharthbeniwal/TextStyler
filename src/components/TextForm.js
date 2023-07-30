@@ -222,7 +222,7 @@ export default function TextForm(props) {
           ></textarea>
         </div>
       </div>
-
+      <div className="convertButtons">
       <button className="btn btn-primary mx-2 my-2" onClick={handleUpClick}>
         Convert to UPPERCASE
       </button>
@@ -254,7 +254,9 @@ export default function TextForm(props) {
           Text Copied!
         </span>
       )}
-
+      </div>
+      
+      <div className="summary">
       <h4 style={{ color: isDarkMode ? "white" : "black" }}>
         Your text summary:
       </h4>
@@ -264,6 +266,7 @@ export default function TextForm(props) {
       <p style={{ color: isDarkMode ? "white" : "black" }}>
         No. of character(s) = {text.length}
       </p>
+      </div>
     </div>
   );
 }

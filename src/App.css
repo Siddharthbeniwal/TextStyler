@@ -37,32 +37,26 @@
   }
 }
 
-marquee {
-  height: 50px;
-  overflow: hidden;
-  position: relative;
-  background: #fefefe;
-  color: #333;
-  border: 1px solid #4a4a4a;
-}
-
-textColour {
-  color: #db0808;
-}
-
-body {
-  background-color: blue;
-}
-
-button {
-  color: #0b0b0b;
-  background-color: rgb(238, 215, 140);
-}
-
 .singleRow {
   display: flex;
-  gap: 40px;
-  /* margin-Bottom: '200px'; */
+  flex-wrap: wrap;
+  justify-content: left;
+  gap: 4%;
+  margin-bottom: 20px;
+}
+
+.convertButtons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+.summary {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 2%;
 }
 
 .checkboxStyle {
@@ -107,11 +101,7 @@ button {
 
 /* CSS for toggle button starts here */
 .toggleButton {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 48
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 48;
 }
 
 .toggle-container {
@@ -168,3 +158,14 @@ button {
 }
 /* CSS for toggle button ends here */
 
+/* Responsive changes*/
+@media (max-width: 768px) {
+   .App-header {
+    font-size: calc(10px + 1vmin);
+  }
+
+  .toggle-container {
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+}
